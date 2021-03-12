@@ -5,6 +5,5 @@ function a(){
 function b(){
     return 1+1;
 }
-function c(){
-    return 1+1;
-}
+
+
