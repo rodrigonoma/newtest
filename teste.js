@@ -1,21 +1,21 @@
 function a(){
     return 1+1;
 }
-function a(){
+function b(){
     return 1+1;
 }
 
 
-function a(){
+function c(){
     return 1+1;
 }
 
 
-function a(){
+function d(){
     return 1+1;
 }
 
-function a(){
+function e(){
     return 1+1;
 }
 
