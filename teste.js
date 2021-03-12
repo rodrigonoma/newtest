@@ -10,6 +10,3 @@ function c(){
     return 1+1;
 }
 
-function d(){
-    return 1+1;
-}
